@@ -3,7 +3,7 @@ Ce programme permet de rechercher (en récursive et sans limite de profondeur) l
 
 Il est développé en Js peut être executé avec la commande node.
 
-Librarie utilisé:
+Libraries utilisées:
 - findit-2 : pour rechercher les images dans le dossier courant
 - replace-color: pour remplacer une couleur de l'image
 - dotenv: pour recharger les variables d'environnement dans le process `node`
